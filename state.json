@@ -1,0 +1,207 @@
+{
+  "Tasks": {
+    "2942c707-f7ac-4301-9660-4a3ddf9c5c17": {
+      "title": "Ipsum consequat nisl vel pretium lectus quam id",
+      "assignee": "Chris",
+      "description": "Et malesuada fames ac turpis egestas maecenas. In egestas erat imperdiet sed. Sed risus pretium quam vulputate dignissim suspendisse in est. Neque volutpat ac tincidunt vitae semper quis lectus. Amet volutpat consequat mauris nunc congue nisi vitae. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. At consectetur lorem donec massa sapien faucibus et molestie. Ultrices vitae auctor eu augue ut lectus arcu bibendum. Massa ultricies mi quis hendrerit dolor magna. Elit at imperdiet dui accumsan. Tellus mauris a diam maecenas. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque in.",
+      "tags": [
+        {
+          "value": "Critical",
+          "color": "ff0000"
+        }
+      ],
+      "status": "Queue",
+      "createDate": 1703741982784,
+      "lastUpdateDate": 1703741982784,
+      "id": "2942c707-f7ac-4301-9660-4a3ddf9c5c17",
+      "linkedBoards": [
+        "969bbe69-3815-4fac-968d-c8db6ad759b8"
+      ]
+    },
+    "5f7b84e1-759e-47d3-9b50-1b9aa7d9949d": {
+      "title": "Pellentesque pulvinar pellentesque habitant morbi tristique senectus et.",
+      "assignee": "jdoe",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc id cursus metus aliquam eleifend mi in. Nam at lectus urna duis. Et malesuada fames ac turpis egestas sed. Ac placerat vestibulum lectus mauris. Egestas egestas fringilla phasellus faucibus scelerisque eleifend. Morbi tristique senectus et netus et malesuada fames ac turpis. Interdum varius sit amet mattis vulputate enim nulla aliquet. Viverra suspendisse potenti nullam ac tortor vitae. Viverra vitae congue eu consequat ac felis donec et odio. Lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit. Cheese",
+      "tags": [
+        {
+          "value": "Medium",
+          "color": "46f17b"
+        },
+        {
+          "value": "Cheese",
+          "color": "ffed4f"
+        }
+      ],
+      "status": "Queue",
+      "createDate": 1703741982784,
+      "lastUpdateDate": 1703741982784,
+      "id": "5f7b84e1-759e-47d3-9b50-1b9aa7d9949d",
+      "linkedBoards": [
+        "68a1ee21-ff82-483d-94f2-1b85e26a3b7c",
+        "45b8dc6c-daeb-4a90-990a-5c9e1aa1cee8"
+      ]
+    },
+    "94082cc3-9bb1-492a-9cf6-b040b91c254a": {
+      "title": "A",
+      "assignee": "John",
+      "description": "A",
+      "tags": [],
+      "status": "Queue",
+      "createDate": 1705619793388,
+      "lastUpdateDate": 1705619793388,
+      "linkedBoards": [
+        "68a1ee21-ff82-483d-94f2-1b85e26a3b7c"
+      ],
+      "id": "94082cc3-9bb1-492a-9cf6-b040b91c254a"
+    },
+    "b0fc14db-92a7-4037-9d58-f29ba188cfd1": {
+      "title": "First task with new flow",
+      "assignee": "John",
+      "description": "First task using flow of manually retrieving form elements",
+      "tags": [
+        {
+          "value": "Critical",
+          "color": "ff0000"
+        }
+      ],
+      "status": "Queue",
+      "createDate": 1706413325720,
+      "lastUpdateDate": 1706413325720,
+      "linkedBoards": [
+        "68a1ee21-ff82-483d-94f2-1b85e26a3b7c"
+      ],
+      "id": "b0fc14db-92a7-4037-9d58-f29ba188cfd1"
+    }
+  },
+  "Boards": {
+    "68a1ee21-ff82-483d-94f2-1b85e26a3b7c": {
+      "name": "Pumpkin",
+      "id": "68a1ee21-ff82-483d-94f2-1b85e26a3b7c",
+      "tasks": [
+        "5f7b84e1-759e-47d3-9b50-1b9aa7d9949d",
+        "34016cf7-7d05-4052-a922-85953eeb31ee",
+        "76d279fb-df2d-4eab-ba18-0461e6b6875e",
+        "9a37a89b-6a2b-4b3f-b678-f2c0cf9463f1",
+        "70d2ed72-0a8a-425c-a0e6-8bc9cdfb6ad9",
+        "94082cc3-9bb1-492a-9cf6-b040b91c254a",
+        "e4582bc5-b24d-4c35-a2af-a07b846e13dc",
+        "a633f7b3-c3f4-4b2e-aaa3-0c088285692a",
+        "7831f774-7731-4f09-aa28-4c42bcc9bcc6",
+        "f6de2f5c-e17d-48fd-a91b-1aba93633503",
+        "14ce1c38-7584-41b2-929a-dc34cb3247bd",
+        "60edf5c6-b3a1-4e20-832b-fc88eba06cdf",
+        "5566f803-5a63-4445-be8f-05e2ffd93b25",
+        "b0fc14db-92a7-4037-9d58-f29ba188cfd1"
+      ],
+      "config": {
+        "name": "Squash",
+        "availableTags": [
+          {
+            "value": "Critical",
+            "color": "ff0000"
+          },
+          {
+            "value": "Medium",
+            "color": "46f17b"
+          },
+          {
+            "value": "Remitance",
+            "color": "3d7bf7"
+          },
+          {
+            "value": "Cheese",
+            "color": "ffed4f"
+          }
+        ],
+        "boardId": "68a1ee21-ff82-483d-94f2-1b85e26a3b7c"
+      }
+    },
+    "969bbe69-3815-4fac-968d-c8db6ad759b8": {
+      "name": "Balloon",
+      "id": "969bbe69-3815-4fac-968d-c8db6ad759b8",
+      "tasks": [
+        "2942c707-f7ac-4301-9660-4a3ddf9c5c17"
+      ],
+      "config": {
+        "name": "Balloon",
+        "availableTags": [
+          {
+            "value": "Critical",
+            "color": "ff0000"
+          },
+          {
+            "value": "Remitance",
+            "color": "6497fd"
+          }
+        ],
+        "boardId": "969bbe69-3815-4fac-968d-c8db6ad759b8"
+      }
+    },
+    "45b8dc6c-daeb-4a90-990a-5c9e1aa1cee8": {
+      "name": "Die hard",
+      "id": "45b8dc6c-daeb-4a90-990a-5c9e1aa1cee8",
+      "tasks": [
+        "5f7b84e1-759e-47d3-9b50-1b9aa7d9949d"
+      ],
+      "config": {
+        "name": "Die hard",
+        "availableTags": [
+          {
+            "value": "Critical",
+            "color": "ff0000"
+          }
+        ]
+      }
+    }
+  },
+  "AssignedTasks": {
+    "jdoe": [
+      "34016cf7-7d05-4052-a922-85953eeb31ee",
+      "5f7b84e1-759e-47d3-9b50-1b9aa7d9949d",
+      "76d279fb-df2d-4eab-ba18-0461e6b6875e"
+    ],
+    "John": [
+      [
+        [
+          [
+            [
+              [
+                [
+                  [
+                    [
+                      null,
+                      "9a37a89b-6a2b-4b3f-b678-f2c0cf9463f1"
+                    ],
+                    "94082cc3-9bb1-492a-9cf6-b040b91c254a"
+                  ],
+                  "e4582bc5-b24d-4c35-a2af-a07b846e13dc"
+                ],
+                "7831f774-7731-4f09-aa28-4c42bcc9bcc6"
+              ],
+              "f6de2f5c-e17d-48fd-a91b-1aba93633503"
+            ],
+            "14ce1c38-7584-41b2-929a-dc34cb3247bd"
+          ],
+          "60edf5c6-b3a1-4e20-832b-fc88eba06cdf"
+        ],
+        "5566f803-5a63-4445-be8f-05e2ffd93b25"
+      ],
+      "b0fc14db-92a7-4037-9d58-f29ba188cfd1"
+    ],
+    "Jane": [
+      [
+        null,
+        "70d2ed72-0a8a-425c-a0e6-8bc9cdfb6ad9"
+      ],
+      "a633f7b3-c3f4-4b2e-aaa3-0c088285692a"
+    ]
+  },
+  "User": {
+    "name": {
+      "first": "John",
+      "last": "Doe"
+    },
+    "email": "johndoe@someemail.com",
+    "username": "jdoe"
+  }
+}

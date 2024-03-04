@@ -1,0 +1,25 @@
+{
+  "extends": "@electron-toolkit/tsconfig/tsconfig.web.json",
+  "include": [
+    "src/main/**/*",
+    "src/preload/**/*",
+    "./resources/*",
+    "src/models/**/*",
+    "src/renderer/**/*"
+  ],
+  "jsx": "react",
+  "compilerOptions": {
+    "composite": true,
+    "types": [
+      "electron-vite/node"
+    ],
+    "paths": {
+      "@renderer/*": [
+        "src/renderer/*"
+      ],
+      "@models/*": [
+        "src/models/*"
+      ]
+    }
+  }
+}

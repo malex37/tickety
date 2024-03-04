@@ -1,9 +1,9 @@
 /** @type {import('tailwindcss').Config} */
-export default {
-  content: ["./src/**/*.{js,ts,jsx,tsx}"],
+module.exports = {
+  content: ["./src/**/*.{html,tsx,js}"],
+  theme: {
+    extend: {},
+  },
   plugins: [require("daisyui")],
-  daisyui: {
-    themes: ["cupcake"]
-  }
 }
 
